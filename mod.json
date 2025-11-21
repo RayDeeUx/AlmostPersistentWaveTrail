@@ -1,0 +1,37 @@
+{
+	"geode": "4.9.0",
+	"gd": {
+		"win": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074",
+		"android": "2.2074"
+	},
+	"id": "raydeeux.almostpersistentwavetrail",
+	"name": "AlmostPersistentWaveTrail",
+	"version": "v0.0.0-alpha.1",
+	"developer": "RayDeeUx",
+	"description": "An almost persistent wave trail.",
+	"repository": "https://github.com/RayDeeUx/AlmostPersistentWaveTrail",
+	"settings": {
+		"enabled": {
+			"name": "Enabled",
+			"description": "Toggles the mod.",
+			"type": "bool",
+			"default": true
+		},
+		"dontResetOnWavePortal": {
+			"name": "Dont Reset Wave Trail On Wave Portal",
+			"description": "<c_>THIS IS A REALLY UNSTABLE TOGGLE. PLEASE LEAVE THIS ENABLED IF YOU KNOW WHAT'S GOOD FOR YOU.</c>",
+			"type": "bool",
+			"default": true
+		}
+	},
+	"issues": {
+		"url": "https://discord.com/channels/911701438269386882/1205523212444639292",
+		"info": "Ping me <cl>(@erymanthus)</c> in the Geode SDK Discord server's <cl>#help</c> channel if you need help. <cr>DMs are NOT accepted.</c>"
+	},
+	"links": {
+		"community": "https://discord.gg/WqZBYdBWZW",
+		"homepage": "https://discord.com/channels/822510988409831486/1206371881222144020"
+	}
+}
