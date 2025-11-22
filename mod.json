@@ -1,5 +1,5 @@
 {
-	"geode": "4.9.0",
+	"geode": "4.10.0",
 	"gd": {
 		"win": "2.2074",
 		"mac": "2.2074",
@@ -25,6 +25,9 @@
 			"type": "bool",
 			"default": true
 		}
+	},
+	"dependencies": {
+		"nytelyte.wave_trail_draw_fix": ">=1.1.5"
 	},
 	"issues": {
 		"url": "https://discord.com/channels/911701438269386882/1205523212444639292",
